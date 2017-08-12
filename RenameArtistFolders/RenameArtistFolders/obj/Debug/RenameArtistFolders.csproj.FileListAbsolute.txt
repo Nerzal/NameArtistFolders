@@ -6,3 +6,6 @@ C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\bin\Debu
 C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\obj\Debug\RenameArtistFolders.csprojResolveAssemblyReference.cache
 C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\obj\Debug\RenameArtistFolders.exe
 C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\obj\Debug\RenameArtistFolders.pdb
+C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\bin\Debug\HtmlAgilityPack.dll
+C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\bin\Debug\HtmlAgilityPack.pdb
+C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\bin\Debug\HtmlAgilityPack.xml

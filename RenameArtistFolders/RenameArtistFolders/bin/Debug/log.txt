@@ -4,3 +4,31 @@
 12.08.2017 14:05: Found 2686 folders after filtering
 12.08.2017 14:06: Found 3393 folders
 12.08.2017 14:06: Found 2115 folders after filtering
+12.08.2017 14:24: Found 3393 folders
+12.08.2017 14:24: Found 2115 folders after filtering
+12.08.2017 14:32: Found 3393 folders
+12.08.2017 14:32: Found 2115 folders after filtering
+12.08.2017 14:34: Found 3393 folders
+12.08.2017 14:34: Found 2115 folders after filtering
+12.08.2017 14:41: Found 3393 folders
+12.08.2017 14:41: Found 2115 folders after filtering
+12.08.2017 14:42: Found 3393 folders
+12.08.2017 14:42: Found 2115 folders after filtering
+12.08.2017 14:44: Found 3393 folders
+12.08.2017 14:44: Found 2115 folders after filtering
+12.08.2017 15:18: Found 3393 folders
+12.08.2017 15:18: Found 2115 folders after filtering
+12.08.2017 15:20: Found 3393 folders
+12.08.2017 15:20: Found 2115 folders after filtering
+12.08.2017 15:22: Found 3393 folders
+12.08.2017 15:22: Found 2115 folders after filtering
+12.08.2017 15:24: Found 3393 folders
+12.08.2017 15:24: Found 2115 folders after filtering
+12.08.2017 15:27: Found 3393 folders
+12.08.2017 15:27: Found 2115 folders after filtering
+12.08.2017 15:28: Found 3393 folders
+12.08.2017 15:28: Found 2115 folders after filtering
+12.08.2017 15:29: Found 3393 folders
+12.08.2017 15:29: Found 2115 folders after filtering
+12.08.2017 15:30: Found 3393 folders
+12.08.2017 15:30: Found 2115 folders after filtering

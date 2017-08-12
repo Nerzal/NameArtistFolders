@@ -7,7 +7,9 @@ using System.Reflection;
 using NoobyGames.Logging;
 
 namespace RenameArtistFolders {
+  
   public class Program {
+    [STAThread()]
     static void Main(string[] args) {
       Console.WriteLine("### RenameArtistFolders ###");
       Console.WriteLine(@"Please insert the root path. (Like C:\foo\music)");
@@ -21,11 +23,12 @@ namespace RenameArtistFolders {
       string assemblyDirectory = GetAssemblyDirectory();
       Logger logger = new Logger(assemblyDirectory + @"\log.txt");
       Worker worker = new Worker(input, true, logger);
-     
+
       IEnumerable<string> artistFolders = worker.ScanFolder();
       logger.Log($"Found {artistFolders.Count()} folders");
       IEnumerable<string> filteredFolders = worker.FilterFolders(artistFolders);
       logger.Log($"Found {filteredFolders.Count()} folders after filtering");
+      worker.ProcessFolders(filteredFolders);
     }
 
     private static string GetAssemblyDirectory() {
@@ -55,12 +58,11 @@ namespace RenameArtistFolders {
           try {
             string[] artistDirectories = Directory.GetDirectories(directory);
             result.AddRange(artistDirectories);
-          }
-          catch (Exception e) {
+          } catch (Exception e) {
             this._logger.Log($"Failed to parse directory : {directory}");
             this._logger.Log(e.Message);
           }
-         
+
         }
         return result;
       } else {
@@ -77,6 +79,16 @@ namespace RenameArtistFolders {
         result.Add(artistFolder);
       }
       return result;
+    }
+
+    public void ProcessFolders(IEnumerable<string> filteredFolders) {
+      FetchArtistInfoWorker worker = new SomFetchArtistWorker();
+      foreach (string filteredFolder in filteredFolders) {
+        DirectoryInfo directory = new DirectoryInfo(filteredFolder);
+        ArtistInfo info = worker.FetchInformation(directory.Name);
+        string artistInfo = $"[ {info.Genre} {info.State}-{info.City} {info.Year}]";
+        directory.MoveTo(directory.Name + artistInfo);
+      }
     }
   }
 }
