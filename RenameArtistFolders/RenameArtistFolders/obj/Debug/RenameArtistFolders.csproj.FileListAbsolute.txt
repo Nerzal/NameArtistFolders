@@ -1,6 +1,8 @@
 C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\bin\Debug\RenameArtistFolders.exe.config
 C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\bin\Debug\RenameArtistFolders.exe
 C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\bin\Debug\RenameArtistFolders.pdb
+C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\bin\Debug\NoobyGames.Logging.dll
+C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\bin\Debug\NoobyGames.Logging.pdb
 C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\obj\Debug\RenameArtistFolders.csprojResolveAssemblyReference.cache
 C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\obj\Debug\RenameArtistFolders.exe
 C:\git\privat\NameArtistFolders\RenameArtistFolders\RenameArtistFolders\obj\Debug\RenameArtistFolders.pdb

@@ -1,0 +1,6 @@
+C:\git\privat\NameArtistFolders\RenameArtistFolders\NoobyGames.Logging\bin\Debug\netstandard1.4\NoobyGames.Logging.deps.json
+C:\git\privat\NameArtistFolders\RenameArtistFolders\NoobyGames.Logging\bin\Debug\netstandard1.4\NoobyGames.Logging.dll
+C:\git\privat\NameArtistFolders\RenameArtistFolders\NoobyGames.Logging\bin\Debug\netstandard1.4\NoobyGames.Logging.pdb
+C:\git\privat\NameArtistFolders\RenameArtistFolders\NoobyGames.Logging\obj\Debug\netstandard1.4\NoobyGames.Logging.AssemblyInfo.cs
+C:\git\privat\NameArtistFolders\RenameArtistFolders\NoobyGames.Logging\obj\Debug\netstandard1.4\NoobyGames.Logging.dll
+C:\git\privat\NameArtistFolders\RenameArtistFolders\NoobyGames.Logging\obj\Debug\netstandard1.4\NoobyGames.Logging.pdb

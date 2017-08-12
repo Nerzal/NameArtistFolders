@@ -1,0 +1,3 @@
+C:\git\privat\NameArtistFolders\RenameArtistFolders\NoobyGames.Logging\bin\Debug\netstandard1.0\NoobyGames.Logging.deps.json
+C:\git\privat\NameArtistFolders\RenameArtistFolders\NoobyGames.Logging\obj\Debug\netstandard1.0\NoobyGames.Logging.csprojResolveAssemblyReference.cache
+C:\git\privat\NameArtistFolders\RenameArtistFolders\NoobyGames.Logging\obj\Debug\netstandard1.0\NoobyGames.Logging.AssemblyInfo.cs
